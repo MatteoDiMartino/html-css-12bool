@@ -52,4 +52,13 @@
     text-align: center;
     padding: 10px;
     border: 1px solid white;
+    display: flex;
+}
+
+.box-2 {
+    background-color: #00e165;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 1px;
 }
