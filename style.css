@@ -46,6 +46,58 @@
     width: calc((100% / 12) * 12);
 }
 
+
+/* offset */
+
+.col-off-1 {
+    margin-left: calc((100% / 12) * 1);
+}
+
+.col-off-2 {
+    margin-left: calc((100% / 12) * 2);
+}
+                                                                                
+.col-off-3 {
+    margin-left: calc((100% / 12) * 3);
+}
+
+.col-off-4 {
+    margin-left: calc((100% / 12) * 4);
+}
+
+.col-off-5 {
+    margin-left: calc((100% / 12) * 5);
+}
+
+.col-off-6 {
+    margin-left: calc((100% / 12) * 6);
+}
+
+.col-off-7 {
+    margin-left: calc((100% / 12) * 7);
+}
+
+.col-off-8 {
+    margin-left: calc((100% / 12) * 8);
+}
+
+.col-off-9 {
+    margin-left: calc((100% / 12) * 9);
+}
+
+.col-off-10 {
+    margin-left: calc((100% / 12) * 10);
+}
+
+.col-off-11 {
+    margin-left: calc((100% / 12) * 11);
+}
+
+.col-off-12 {
+    margin-left: calc((100% / 12) * 12);
+}
+
+
 .box {
     background-color: #006cfa;
     color: white;
